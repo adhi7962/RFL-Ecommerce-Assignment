@@ -20,9 +20,9 @@ Independent variable:
 2. Address
 3. Avatar
 4. Avg. Session Length
-5 Time on App
-6 Time on Website
-7 Length of Membership
+5. Time on App
+6. Time on Website
+7. Length of Membership
 Target variable:
-8 Yearly Amount Spent
+8. Yearly Amount Spent
       
