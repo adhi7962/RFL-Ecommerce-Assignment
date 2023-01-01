@@ -16,10 +16,10 @@ The Ecommerce dataset consist of 500 data points, with each datapoint having 8 f
 #### Features
 7 were independent variable and 1 target variable.
 Independent variable:
-1 Email							
-2 Address
-3 Avatar
-4 Avg. Session Length
+1. Email							
+2. Address
+3. Avatar
+4. Avg. Session Length
 5 Time on App
 6 Time on Website
 7 Length of Membership
