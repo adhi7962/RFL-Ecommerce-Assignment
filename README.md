@@ -1,6 +1,6 @@
 # RFL-Ecommerce-Assignment
 ## Project: Predicting Yearly amount spent 
-This projects predicts the yearly amount spent by Ecommerce customers using Multi Linear Regression in Python.
+This projects predicts the yearly amount spent in Ecommerce customers using Multi Linear Regression in Python.
 ### Install
 This project requires Python 3.8.8 and the following libraries:
 * NumPy
